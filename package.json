@@ -1,7 +1,7 @@
 {
   "name": "defaultattack",
   "version": "1.0.5",
-  "description": "A simple Node.js web application that runs in Docker.",
+  "description": "Default Attack Package",
   "type": "module",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fisehara/defaultattack.git"
+    "url": "git+https://github.com/badactors/defaultattack.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fisehara/defaultattack/issues"
+    "url": "https://github.com/badactors/defaultattack/issues"
   },
-  "homepage": "https://github.com/fisehara/defaultattack#readme"
+  "homepage": "https://github.com/badactors/defaultattack#readme"
 }
