@@ -1,4 +1,4 @@
-name: Vulnerable two stage cached NPM Pack and Publish
+name: NPM Pack and Publish
 
 on: push
 
